@@ -1,4 +1,4 @@
-import { OnlineHelper, LeifMahaney } from "@/configuration/identity";
+import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
 export const CHAT_HEADER: string = `Soccer.com AI Assistant`;
 export const MESSAGE_PLACEHOLDER: string = `Ask me about soccer gear, orders, or recommendations...`;
