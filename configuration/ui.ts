@@ -1,6 +1,6 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
-export const CHAT_HEADER: string = `Sneaker Assistant AI`;
+export const CHAT_HEADER: string = `Personal Sneaker Assistant AI`;
 export const MESSAGE_PLACEHOLDER: string = `Ask me about sneaker drops, resale prices, or authentication tips...`;
 export const FOOTER_MESSAGE: string = `Customized Sneaker AI assistant by Leif Mahaney`;
 export const CLEAR_BUTTON_TEXT: string = `Powered by AI – Developed by Leif Mahaney`;
